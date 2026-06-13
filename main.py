@@ -1,7 +1,7 @@
 # Hackathon Team Members 🚀
 
 team_members = [
-    "Jay" , "ashish" , "Vaishnavi"
+    "Jay" , "ashish" , "Vaishnavi" , "somya"
 ]
 
 print("Hackathon Team Members:\n")
