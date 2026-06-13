@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+crewai
+crewai-tools
+ollama
+requests
+pydantic
+python-dotenv
