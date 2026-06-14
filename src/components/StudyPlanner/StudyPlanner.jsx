@@ -3,30 +3,14 @@ import { useState, useEffect } from "react";
 const API = "http://localhost:5000/api";
 
 const TOPICS = {
-  "🟢 Basics": [
-    "Arrays", "Strings", "Linked List", "Stacks", "Queues", "Matrix"
+  "📐 Calculus": [
+    "Integration by Substitution",
   ],
-  "🔵 Searching & Sorting": [
-    "Binary Search", "Bubble Sort", "Merge Sort", "Quick Sort",
-    "Insertion Sort", "Selection Sort", "Counting Sort", "Radix Sort"
+  "📊 Algebra": [
+    "Quadratic Formula",
   ],
-  "🟣 Recursion & DP": [
-    "Recursion", "Backtracking", "Dynamic Programming", "Memoization",
-    "Tabulation", "Divide & Conquer", "Greedy Algorithms"
-  ],
-  "🟠 Trees": [
-    "Binary Trees", "Binary Search Tree", "AVL Trees",
-    "Segment Trees", "Fenwick Tree", "Trie", "Heap / Priority Queue"
-  ],
-  "🔴 Graphs": [
-    "Graph Basics", "BFS", "DFS", "Shortest Path (Dijkstra)",
-    "Bellman Ford", "Floyd Warshall", "Topological Sort",
-    "Union Find", "Minimum Spanning Tree"
-  ],
-  "⚡ Advanced": [
-    "Hashing", "Bit Manipulation", "Two Pointers", "Sliding Window",
-    "Monotonic Stack", "Interval Problems", "Math & Number Theory",
-    "Game Theory", "Computational Geometry"
+  "🍎 Physics": [
+    "Work-Energy Theorem",
   ],
 };
 
