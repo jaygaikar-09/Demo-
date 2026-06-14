@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+.gemini/
+*.webp
+*.png
+*.mp4
+*.gif
